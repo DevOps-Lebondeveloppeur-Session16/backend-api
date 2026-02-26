@@ -1,6 +1,11 @@
 # dependencies
 node_modules
 
+
+frontend-app
+devops-script
+docker-compose.yml
+docker-compose-old.yml
 # production
 build
 dist
